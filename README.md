@@ -1,2 +1,3 @@
 # DAT1-Lektion3
-Her er kode-eksemplerne fra klassen med Katte-klassen, katte-objekterne m.m. 
+The first time I'm showed how classes can work together and how exciting it is.
+Here you will find some code examples of a cat class and a cat-residental.
